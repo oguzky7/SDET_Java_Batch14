@@ -3,6 +3,7 @@ package Practise;
 /*
 intellij java push code test
 
+intellij java push code test 2
  */
 
 class T {
