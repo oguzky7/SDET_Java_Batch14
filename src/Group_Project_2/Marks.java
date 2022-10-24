@@ -44,8 +44,8 @@ class StudentB extends Marks{
 }
 class MarksTester{
     public static void main(String[] args) {
-        Marks[] score ={new StudentA(78,87,74),new StudentB(89.5,76,80,93)};
-        System.out.println();
+        Marks[] score ={new StudentA(78,87,75),new StudentB(89.5,76,80,93)};
+        //System.out.println();
         for(Marks avg:score){
             System.out.println("The Average Percentage of Student is: "+avg.getPercentage()+"%");
         }
