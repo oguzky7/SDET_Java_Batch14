@@ -14,7 +14,7 @@ null
 false
 0.0
  */
-public class Problem_123 {
+public class    Problem_123 {
     int var1;
     String var2;
     double var3;
