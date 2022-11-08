@@ -6,8 +6,7 @@ import java.util.Iterator;
 public class class25_HW3_10_30_2022 {
     public static void main(String[] args) {
         ArrayList<Integer> evenNumbers = new ArrayList<>();
-
-        for (int i = 0; i<=500; i+=2){
+        for (int i = 1; i<=500; i+=2){
             evenNumbers.add(i);
         }
         Iterator<Integer> iterateEven = evenNumbers.iterator();

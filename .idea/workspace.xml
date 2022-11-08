@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="10/30/2022">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class25_HW1_10_30_2022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class25_HW2_10_30_2022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class25_HW3_10_30_2022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl192.java" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/2/2022">
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW1_6/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/ExcelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/Practise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/Practise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl188.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDET_Java_Batch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDET_Java_Batch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class25_HW3_10_30_2022.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class25_HW3_10_30_2022.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/EncapsulationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/repl188.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorks/class25_HW3_10_30_2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorks/class25_HW3_10_30_2022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/oguzk/IdeaProjects/SDET_Selenium_Batch14&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/oguzk/Intellij necessary library drivers and everything/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.repl189">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.ArrayListVsLinkedList" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.Person" />
+    <configuration name="ExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.ExcelDemo" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl188" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl188" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.Task2" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.ArrayListVsLinkedList" />
+        <item itemvalue="Application.ExcelDemo" />
         <item itemvalue="Application.repl189" />
         <item itemvalue="Application.repl192" />
-        <item itemvalue="Application.repl188" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667333017746</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="11/2/2022">
+      <created>1667411872984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667411872984</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +223,7 @@
     <MESSAGE value="&lt;group projeect faults corrected&gt;" />
     <MESSAGE value="10/26/2022 complete" />
     <MESSAGE value="10/30/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/30/2022" />
+    <MESSAGE value="11/2/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/2/2022" />
   </component>
 </project>
