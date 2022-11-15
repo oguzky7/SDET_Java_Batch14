@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/2/2022">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW1_6/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class26/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ExcelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/Notes" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/8/2022">
+      <change afterPath="$PROJECT_DIR$/Data/Book2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW1/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW2/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class26_HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/MapsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDET_Java_Batch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDET_Java_Batch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class25_HW3_10_30_2022.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class25_HW3_10_30_2022.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/EncapsulationDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/repl188.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorks/class25_HW3_10_30_2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorks/class25_HW3_10_30_2022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class26_HW1_6/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class26_HW1_6/Health.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class26_HW1_6/Insurance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class26_HW1_6/InsuranceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/HomeWorks/class26_HW1_6/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class27/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class27/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class27/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class27/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorks/class26_HW1_6/Insurance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/StringUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,9 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/HomeWorks/class26_HW6.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,25 +54,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/oguzk/Intellij necessary library drivers and everything/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oguzk/IdeaProjects/SDET_Java_Batch14/Data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class26.ArrayListVsLinkedList" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oguzk\IdeaProjects\SDET_Java_Batch14\Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadingExcelFileDemo2">
+    <configuration name="ExcelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo1" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class26.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.ExcelDemo" />
+    <configuration name="ExcelDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo2" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class26.Task2" />
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.FileDemo1" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class26.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl189" />
+    <configuration name="ReadingExcelFileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.ReadingExcelFileDemo1" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl192" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl192" />
+    <configuration name="ReadingExcelFileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.ReadingExcelFileDemo2" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.ArrayListVsLinkedList" />
-        <item itemvalue="Application.ExcelDemo" />
-        <item itemvalue="Application.repl189" />
-        <item itemvalue="Application.repl192" />
+        <item itemvalue="Application.ReadingExcelFileDemo2" />
+        <item itemvalue="Application.ReadingExcelFileDemo1" />
+        <item itemvalue="Application.ExcelDemo2" />
+        <item itemvalue="Application.ExcelDemo1" />
+        <item itemvalue="Application.FileDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667411872984</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="11/8/2022">
+      <created>1667948848176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667948848177</updated>
+    </task>
+    <task id="LOCAL-00009" summary="11/8/2022">
+      <created>1667948871629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667948871629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +254,7 @@
     <MESSAGE value="10/26/2022 complete" />
     <MESSAGE value="10/30/2022" />
     <MESSAGE value="11/2/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/2/2022" />
+    <MESSAGE value="11/8/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/8/2022" />
   </component>
 </project>

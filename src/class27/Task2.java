@@ -8,9 +8,6 @@ public class Task2 {
        Create 3 objects of different card and store them into LinkedList.
        Using for loop/advanced for loop/ iterator access all methods of the class.
      */
-
-
-
     public static void main(String[] args) {
         LinkedList<Card> cards=new LinkedList<>();
         cards.add(new Card(10,"Credit card",2000));
