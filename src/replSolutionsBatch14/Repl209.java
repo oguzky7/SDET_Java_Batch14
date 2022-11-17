@@ -1,7 +1,7 @@
 package Repl209;
 
-import java.util.*;
-import static java.util.Map.*;
+    import java.util.*;
+    import static java.util.Map.*;
 class Main {
     public static void main(String[] args) {
 
