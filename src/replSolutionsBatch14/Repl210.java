@@ -1,4 +1,4 @@
-package Repl210;
+package replSolutionsBatch14;
 
 class Main {
     public static void main(String[] args) {

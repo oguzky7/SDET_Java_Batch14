@@ -1,7 +1,7 @@
-package Repl212;
+package replSolutionsBatch14;
 
 import java.io.*;
-class Main {
+class repl_212 {
     private static final String filename() {
         String filename = "something";
         return filename;

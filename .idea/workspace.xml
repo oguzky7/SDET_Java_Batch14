@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/17/2022">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/class28/asdsa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/quiz_helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Repl210/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Repl210/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Repl212/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Repl212/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/FilesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/FilesDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/MethodsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/MethodsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/ReadingExcelFileDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/ReadingExcelFileDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/ReadingExcelFileDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/ReadingExcelFileDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/Review1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/class29/Review1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/utils/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/utils/ConfigReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/utils/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/utils/ExcelReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class29/FilesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class29/FilesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class29/MethodsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class29/MethodsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class29/Review1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class29/Review1.java" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/24/2022">
       <change beforePath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl210.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replSolutionsBatch14/Repl212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,39 +52,26 @@
       <recent name="C:\Users\oguzk\IdeaProjects\SDET_Java_Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quiz_helper">
-    <configuration name="ExceptionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass14.ExceptionDemo2" />
-      <module name="SDET_Java_Batch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reviewclass14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repl210.Main" />
-      <module name="SDET_Java_Batch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Repl210.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.repl_212">
     <configuration name="Practise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practise.Main" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repl210.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Repl210.Main" />
+      <module name="SDET_Java_Batch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Repl210.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="repl_212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replSolutionsBatch14.repl_212" />
+      <module name="SDET_Java_Batch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replSolutionsBatch14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SDETBatch14Java" />
       <method v="2">
@@ -153,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.repl_212" />
         <item itemvalue="Application.quiz_helper" />
         <item itemvalue="Application.Practise.Main" />
         <item itemvalue="Application.Repl212.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ExceptionDemo2" />
+        <item itemvalue="Application.Repl210.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668719227251</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11/24/2022">
+      <created>1669350152348</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669350152348</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +267,7 @@
     <MESSAGE value="11/15/2022" />
     <MESSAGE value="11/16/2022" />
     <MESSAGE value="11/17/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/17/2022" />
+    <MESSAGE value="11/24/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/24/2022" />
   </component>
 </project>
