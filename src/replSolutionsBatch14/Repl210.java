@@ -5,8 +5,10 @@ class Main {
         int a=10, b=0, result;
         try {
             result = a / b;
-        }catch (ArithmeticException e){
-            e.printStackTrace();
+        }catch (Exception e){
+            System.out.println("****");
+            System.out.println(e);
+            System.out.println("*****");
         }
     }
 }

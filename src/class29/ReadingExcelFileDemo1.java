@@ -13,7 +13,7 @@ public class ReadingExcelFileDemo1 {
     public static void main(String[] args) throws IOException {
 
         //Location of the file on your HardDrive where file is stored.
-        String path="/Users/oguzk/IdeaProjects/SDET_Java_Batch14/Data/Test.xlsx";
+        String path="/Users/apple/IdeaProjects/SDETBatch14Java/Data/Test.xlsx";
         // Reads the data from HardDrive brings it to RAM in the raw form 10101010101010
         // In simple words we can say computer has navigated to that file
         FileInputStream fis=new FileInputStream(path);
