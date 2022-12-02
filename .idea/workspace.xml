@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/24/2022">
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_216.java" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/29/2022">
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_219.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/excel.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SDET_Java_Batch14/Practise/excel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/excel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +56,9 @@
       <recent name="C:\Users\oguzk\IdeaProjects\SDET_Java_Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.repl_216">
-    <configuration name="Practise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.Main" />
+  <component name="RunManager" selected="Application.repl_219">
+    <configuration name="repl_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_217" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="excel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.excel" />
+    <configuration name="repl_217_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_217_2" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz_helper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.quiz_helper" />
+    <configuration name="repl_217_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_217_3" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl_212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="replSolutionsBatch14.repl_212" />
+    <configuration name="repl_218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_218" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="replSolutionsBatch14.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl_216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl_216" />
+    <configuration name="repl_219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_219" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.repl_216" />
-        <item itemvalue="Application.excel" />
-        <item itemvalue="Application.repl_212" />
-        <item itemvalue="Application.quiz_helper" />
-        <item itemvalue="Application.Practise.Main" />
+        <item itemvalue="Application.repl_219" />
+        <item itemvalue="Application.repl_218" />
+        <item itemvalue="Application.repl_217_3" />
+        <item itemvalue="Application.repl_217_2" />
+        <item itemvalue="Application.repl_217" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669350329729</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="11/29/2022">
+      <created>1669763518422</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669763518422</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +286,7 @@
     <MESSAGE value="11/16/2022" />
     <MESSAGE value="11/17/2022" />
     <MESSAGE value="11/24/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/24/2022" />
+    <MESSAGE value="11/29/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/29/2022" />
   </component>
 </project>
