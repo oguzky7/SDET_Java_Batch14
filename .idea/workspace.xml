@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="11/29/2022">
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_217_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/repl_219.java" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="12/02/2022">
+      <change afterPath="$PROJECT_DIR$/src/Practise/repl_220.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +52,7 @@
       <recent name="C:\Users\oguzk\IdeaProjects\SDET_Java_Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.repl_219">
-    <configuration name="repl_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl_217" />
-      <module name="SDET_Java_Batch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.repl_220">
     <configuration name="repl_217_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practise.repl_217_2" />
       <module name="SDET_Java_Batch14" />
@@ -122,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="repl_220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.repl_220" />
+      <module name="SDET_Java_Batch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SDETBatch14Java" />
       <method v="2">
@@ -137,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.repl_220" />
         <item itemvalue="Application.repl_219" />
         <item itemvalue="Application.repl_218" />
         <item itemvalue="Application.repl_217_3" />
         <item itemvalue="Application.repl_217_2" />
-        <item itemvalue="Application.repl_217" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669763518422</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="12/02/2022">
+      <created>1670024858405</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670024858405</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +290,7 @@
     <MESSAGE value="11/17/2022" />
     <MESSAGE value="11/24/2022" />
     <MESSAGE value="11/29/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/29/2022" />
+    <MESSAGE value="12/02/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/02/2022" />
   </component>
 </project>
