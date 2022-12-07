@@ -5,8 +5,10 @@ import java.util.Arrays;
 import java.util.List;
 
 
-class repl_220 {public static String ssn= "";
-    public static String str="";
+class repl_220 {
+    public static String ssn = "";
+    public static String str = "";
+    public static String result = "";
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -16,43 +18,20 @@ class repl_220 {public static String ssn= "";
 
     public static String formatString(String S) {
 
-        ArrayList<String> numbers = new ArrayList<>(Arrays.asList("0","1","2","3","4","5","6","7","8","9"));
+        ArrayList<String> numbers = new ArrayList<>(Arrays.asList("0", "1", "2", "3", "4", "5", "6", "7", "8", "9"));
         for (int i = 0; i < S.length(); i++) {
 
-            str=""+(S.charAt(i));
-            if(numbers.contains(str)){
+            str = "" + (S.charAt(i));
+            if (numbers.contains(str)) {
 
-                ssn = ssn+str;
-
+                ssn = ssn + str;
             }
         }
-        return ssn.substring(0, 3) + "-" + ssn.substring(3, 5) + "-" + ssn.substring(6, 9);
+        result = ssn.substring(0, 3) + "-" + ssn.substring(3, 6) + "-" + ssn.substring(6, 9);
+        if (ssn.length() > 9) {
+            result = result + "-" + ssn.substring(9, 12);
+        }
+        return result;
     }
-//    public static String ssn= "";
-//    public static String str="";
-//
-//    public static void main(String[] args) {
-//        System.out.println("Hello world!");
-//
-//        System.out.println(formatString("00-44   48 555555"));
-//    }
-//
-//    public static String formatString(String S) {
-//
-//        ArrayList<String> numbers = new ArrayList<>(Arrays.asList("0","1","2","3","4","5","6","7","8","9"));        //'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
-//        for (int i = 0; i < S.length(); i++) {
-//            //System.out.println(S.charAt(i));
-//            str=""+(S.charAt(i));
-//            if(numbers.contains(str)){
-//
-//                //System.out.println(str);
-//                ssn = ssn+str;
-//
-//                //System.out.println(numbers);
-//            }
-//        }
-//
-//
-//        return ssn.substring(0, 3) + "-" + ssn.substring(3, 5) + "-" + ssn.substring(6, 9);
-//    }
+
 }
