@@ -18,6 +18,7 @@ output ["-1"]
  */
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Repl_221 {
@@ -25,7 +26,7 @@ public class Repl_221 {
     public static String result;
     public static String maxLenEven = "";
     public static List<String> words = new ArrayList<>();
-    public static int length = 0;
+    //public static int length = 0;
 
     public static String findMaxLenEven(String Str)
     {
@@ -35,7 +36,7 @@ public class Repl_221 {
                 word = word + Str.charAt(i);
             } else {
                 words.add(word);
-                length++;
+                //length++;
                 if (word.length() % 2 == 0 && word.length() > maxLenEven.length()) {
                     maxLenEven = word;
                 }

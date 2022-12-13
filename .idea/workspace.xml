@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="12/07/2022">
-      <change afterPath="$PROJECT_DIR$/src/Practise/Repl_221.java" afterDir="false" />
+    <list default="true" id="8fd428b7-09ef-41ea-8edf-c4fb6f140a4c" name="Changes" comment="12/13/2022">
+      <change afterPath="$PROJECT_DIR$/src/Practise/Repl_224.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/Repl_225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise/Repl_226.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/Repl_221.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/Repl_221.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,7 @@
       <recent name="C:\Users\oguzk\IdeaProjects\SDET_Java_Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Repl_221">
+  <component name="RunManager" selected="Application.Repl_226">
     <configuration name="Repl_221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practise.Repl_221" />
       <module name="SDET_Java_Batch14" />
@@ -66,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl_217_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl_217_3" />
+    <configuration name="Repl_224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.Repl_224" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl_218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl_218" />
+    <configuration name="Repl_225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.Repl_225" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl_219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.repl_219" />
+    <configuration name="Repl_226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.Repl_226" />
       <module name="SDET_Java_Batch14" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Repl_226" />
         <item itemvalue="Application.Repl_221" />
+        <item itemvalue="Application.Repl_225" />
+        <item itemvalue="Application.Repl_224" />
         <item itemvalue="Application.repl_220" />
-        <item itemvalue="Application.repl_219" />
-        <item itemvalue="Application.repl_218" />
-        <item itemvalue="Application.repl_217_3" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670453142507</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="12/13/2022">
+      <created>1670945093836</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670945093836</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +324,7 @@
     <MESSAGE value="12/02/2022" />
     <MESSAGE value="12/06/2022" />
     <MESSAGE value="12/07/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/07/2022" />
+    <MESSAGE value="12/13/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/13/2022" />
   </component>
 </project>
